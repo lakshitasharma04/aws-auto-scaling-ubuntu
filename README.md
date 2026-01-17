@@ -98,7 +98,7 @@ that installs nginx and fetches metadata using IMDSv2.
 
 Script location:
 
-
+`user-data/ubuntu-nginx-imdsv2.sh`
 
 
 
